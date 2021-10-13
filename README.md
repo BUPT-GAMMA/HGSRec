@@ -9,4 +9,6 @@ Code for AAA2021 Who You Would Like to Share With? A Study  of  Share Recommenda
 
 Python main.py
 
+
+If you have any problems, feel free to contact me jhy1993@bupt.edu.cn.
  
